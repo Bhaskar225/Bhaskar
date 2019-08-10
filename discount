@@ -1,0 +1,26 @@
+#include <stdio.h>
+int main(){
+ int amount,disc;
+ float sum=0;
+ scanf("%d%d",&amount,&disc);
+ for(int i=1;i<=3;i++){
+  sum=sum+amount*(float)(disc/100);
+  }
+  printf("%f",sum);
+  }
+
+ 
+ 
+
+
+
+
+   
+   
+
+
+
+ 
+
+ 
+
